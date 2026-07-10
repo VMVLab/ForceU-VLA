@@ -43,19 +43,14 @@ The framework consists of the following components:
 
 Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference).
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <video src="https://github.com/VMVLab/ForceU-VLA/raw/main/7483e16a3d16eed92f9af48bb85ff857.mp4" controls muted width="100%"></video>
-      <br/>
-      <b>Example 1</b> · <a href="https://github.com/VMVLab/ForceU-VLA/raw/main/7483e16a3d16eed92f9af48bb85ff857.mp4">watch / download</a>
-    </td>
-    <td align="center" width="50%">
-      <video src="https://github.com/VMVLab/ForceU-VLA/raw/main/770c12d60388af59ac71d18ad61b85cb.mp4" controls muted width="100%"></video>
-      <br/>
-      <b>Example 2</b> · <a href="https://github.com/VMVLab/ForceU-VLA/raw/main/770c12d60388af59ac71d18ad61b85cb.mp4">watch / download</a>
-    </td>
-  </tr>
-</table>
+| Demo 1 | Demo 2 |
+| :---: | :---: |
+| [▶ Watch / download](https://github.com/VMVLab/ForceU-VLA/raw/main/demo1.mp4) | [▶ Watch / download](https://github.com/VMVLab/ForceU-VLA/raw/main/demo2.mp4) |
 
-> The embedded players render on GitHub after the videos are pushed to the `main` branch.
+<!--
+  Tip: GitHub cannot stream in-repo (raw) videos inline; they only appear as a
+  download link. To embed an inline PLAYER, drag demo1.mp4 / demo2.mp4 into a
+  GitHub issue or the web README editor to obtain a
+  https://github.com/user-attachments/assets/<id> URL, then add it as:
+  <video src="<asset-url>" controls muted></video>
+-->
