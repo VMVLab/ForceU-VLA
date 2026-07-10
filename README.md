@@ -43,14 +43,17 @@ The framework consists of the following components:
 
 Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference).
 
-| Demo 1 | Demo 2 |
-| :---: | :---: |
-| [▶ Watch / download](https://github.com/VMVLab/ForceU-VLA/raw/main/demo1.mp4) | [▶ Watch / download](https://github.com/VMVLab/ForceU-VLA/raw/main/demo2.mp4) |
-
-<!--
-  Tip: GitHub cannot stream in-repo (raw) videos inline; they only appear as a
-  download link. To embed an inline PLAYER, drag demo1.mp4 / demo2.mp4 into a
-  GitHub issue or the web README editor to obtain a
-  https://github.com/user-attachments/assets/<id> URL, then add it as:
-  <video src="<asset-url>" controls muted></video>
--->
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Demo 1</b></td>
+    <td align="center" width="50%"><b>Demo 2</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="demo1.gif" width="100%"/></td>
+    <td align="center"><img src="demo2.gif" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo1.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2.mp4">▶ Full-quality video</a></td>
+  </tr>
+</table>
