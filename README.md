@@ -47,42 +47,42 @@ Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference), 
 
 ### Liver Scanning (Tasks 1–3)
 
-Task 2 includes **three variants** from different scanning positions to demonstrate the model's generalization capability across anatomical locations.
-
-**Tasks 1 & 2 (Position A & B)**
+**Tasks 1 & 3**
 
 <table>
   <tr>
-    <td align="center" width="33%"><b>Task 1</b></td>
-    <td align="center" width="33%"><b>Task 2 — Position A</b></td>
-    <td align="center" width="33%"><b>Task 2 — Position B</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="demo1.gif" width="100%"/></td>
-    <td align="center"><img src="demo2a.gif" width="100%"/></td>
-    <td align="center"><img src="demo2b.gif" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo1.mp4">▶ Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2a.mp4">▶ Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2b.mp4">▶ Full-quality video</a></td>
-  </tr>
-</table>
-
-**Task 2 (Position C) & Task 3**
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Task 2 — Position C</b></td>
+    <td align="center" width="50%"><b>Task 1</b></td>
     <td align="center" width="50%"><b>Task 3</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="demo2c.gif" width="100%"/></td>
-    <td align="center"><img src="demo3.gif" width="100%"/></td>
+    <td align="center"><img src="task1.gif"/></td>
+    <td align="center"><img src="Task3.gif"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2c.mp4">▶ Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo3.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/task1.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task3.mp4">Full-quality video</a></td>
+  </tr>
+</table>
+
+**Task 2 — Generalization across 3 scanning positions**
+
+Task 2 includes **three variants** from different scanning positions to demonstrate the model's generalization capability across anatomical locations.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Position — Up</b></td>
+    <td align="center" width="33%"><b>Position — Mid</b></td>
+    <td align="center" width="33%"><b>Position — Down</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Task2-up.gif"/></td>
+    <td align="center"><img src="Task2-mid.gif"/></td>
+    <td align="center"><img src="Task2-down.gif"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-up.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-mid.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-down.mp4">Full-quality video</a></td>
   </tr>
 </table>
 
@@ -96,11 +96,11 @@ Task 2 includes **three variants** from different scanning positions to demonstr
     <td align="center" width="50%"><b>Task 5</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="demo4.gif" width="100%"/></td>
-    <td align="center"><img src="demo5.gif" width="100%"/></td>
+    <td align="center"><img src="Task4.gif"/></td>
+    <td align="center"><img src="Task5.gif"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo4.mp4">▶ Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo5.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task4.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task5.mp4">Full-quality video</a></td>
   </tr>
 </table>
