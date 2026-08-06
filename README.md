@@ -41,19 +41,66 @@ The framework consists of the following components:
 
 ## Demos
 
-Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference).
+Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference), covering **two organs** (liver and kidney) across **five standard clinical scanning views**.
+
+---
+
+### Liver Scanning (Tasks 1–3)
+
+Task 2 includes **three variants** from different scanning positions to demonstrate the model's generalization capability across anatomical locations.
+
+**Tasks 1 & 2 (Position A & B)**
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>Demo 1</b></td>
-    <td align="center" width="50%"><b>Demo 2</b></td>
+    <td align="center" width="33%"><b>Task 1</b></td>
+    <td align="center" width="33%"><b>Task 2 — Position A</b></td>
+    <td align="center" width="33%"><b>Task 2 — Position B</b></td>
   </tr>
   <tr>
     <td align="center"><img src="demo1.gif" width="100%"/></td>
-    <td align="center"><img src="demo2.gif" width="100%"/></td>
+    <td align="center"><img src="demo2a.gif" width="100%"/></td>
+    <td align="center"><img src="demo2b.gif" width="100%"/></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo1.mp4">▶ Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2a.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2b.mp4">▶ Full-quality video</a></td>
+  </tr>
+</table>
+
+**Task 2 (Position C) & Task 3**
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Task 2 — Position C</b></td>
+    <td align="center" width="50%"><b>Task 3</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="demo2c.gif" width="100%"/></td>
+    <td align="center"><img src="demo3.gif" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo2c.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo3.mp4">▶ Full-quality video</a></td>
+  </tr>
+</table>
+
+---
+
+### Kidney Scanning (Tasks 4–5)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Task 4</b></td>
+    <td align="center" width="50%"><b>Task 5</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="demo4.gif" width="100%"/></td>
+    <td align="center"><img src="demo5.gif" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo4.mp4">▶ Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/demo5.mp4">▶ Full-quality video</a></td>
   </tr>
 </table>
