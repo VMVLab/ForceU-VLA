@@ -40,7 +40,7 @@ The full dataset comprises **450 expert trajectories** collected from **10 opera
 ## Framework
 
 <div align="center">
-  <img src="pipeline.png" alt="ForceU-VLA Framework" width="100%"/>
+  <img src="assets/images/pipeline.png" alt="ForceU-VLA Framework" width="100%"/>
 </div>
 
 The framework consists of the following components:
@@ -71,12 +71,12 @@ Autonomous ultrasound scanning performed by ForceU-VLA (closed-loop inference), 
     <td align="center" width="50%"><b>Task 3</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="task1.gif"/></td>
-    <td align="center"><img src="Task3.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task1.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task3.gif"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/task1.mp4">Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task3.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task1.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task3.mp4">Full-quality video</a></td>
   </tr>
 </table>
 
@@ -91,14 +91,14 @@ Task 2 includes **three variants** from different scanning positions to demonstr
     <td align="center" width="33%"><b>Position — Down</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="Task2-up.gif"/></td>
-    <td align="center"><img src="Task2-mid.gif"/></td>
-    <td align="center"><img src="Task2-down.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task2-up.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task2-mid.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task2-down.gif"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-up.mp4">Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-mid.mp4">Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task2-down.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task2-up.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task2-mid.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task2-down.mp4">Full-quality video</a></td>
   </tr>
 </table>
 
@@ -112,11 +112,11 @@ Task 2 includes **three variants** from different scanning positions to demonstr
     <td align="center" width="50%"><b>Task 5</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="Task4.gif"/></td>
-    <td align="center"><img src="Task5.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task4.gif"/></td>
+    <td align="center"><img src="assets/gifs/Task5.gif"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task4.mp4">Full-quality video</a></td>
-    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/Task5.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task4.mp4">Full-quality video</a></td>
+    <td align="center"><a href="https://github.com/VMVLab/ForceU-VLA/raw/main/assets/videos/Task5.mp4">Full-quality video</a></td>
   </tr>
 </table>
