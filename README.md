@@ -17,7 +17,23 @@ Unlike prior methods that treat force as an auxiliary control signal and adopt f
 - a **Force–Ultrasound Synergistic Fusion Module (FUSFM)** that tightly couples ultrasound and force modalities via cross-modal attention to provide stable and reliable guidance for probe motion;
 - a **Stage-Adaptive Modulation Mechanism (SAMM)** that adaptively adjusts multimodal fusion strength across scanning stages (non-contact → contact → stable contact).
 
-To support this task, we further construct **ForceU-VLA-Data**, a real-world, force-aware embodied ultrasound dataset integrating visual, force, and action signals, covering two organs (liver and kidney) and five standard clinical scanning views, comprising **450 expert trajectories** and approximately **100,000 synchronized multimodal frames**.
+To support this task, we further construct [**ForceU-VLA-Data**](https://huggingface.co/datasets/usvla/USForce), a real-world, force-aware embodied ultrasound dataset integrating visual, force, and action signals, covering two organs (liver and kidney) and five standard clinical scanning views, comprising **450 expert trajectories** collected from **10 operators** and approximately **100,000 synchronized multimodal frames**.
+
+---
+
+## Dataset
+
+**ForceU-VLA-Data** has been **partially released** and is publicly available on Hugging Face as [**USForce**](https://huggingface.co/datasets/usvla/USForce):
+
+<div align="center">
+
+| Dataset | Hugging Face |
+| :---: | :---: |
+| ForceU-VLA-Data (partial release) | [🤗 usvla/USForce](https://huggingface.co/datasets/usvla/USForce) |
+
+</div>
+
+The full dataset comprises **450 expert trajectories** collected from **10 operators**. Currently, data from **2 of the 10 operators** have been released, and the remaining data will be released gradually.
 
 ---
 
